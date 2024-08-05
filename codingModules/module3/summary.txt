@@ -1,0 +1,12 @@
+Module 3
+
+#---- MEMORY AND POINTERS ----#
+
+    Memory and Variable Declaration
+        
+        - Computer Memory is arranged as a single large linear sequence of storage locations. Each storage cell is a byte in
+        size, i.e can store an 8 bit value. The address of a storage cell is its number in the sequence.
+
+    Introduction to Pointers
+
+        -A pointer is a variable whose value is an address.
