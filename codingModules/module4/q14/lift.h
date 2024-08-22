@@ -15,4 +15,4 @@ void lift_onboard(Lift_t* lift, uint8_t peopleOff, uint8_t peopleOn);
 
 int16_t lift_goToFloor(Lift_t* lift, int16_t floor);
 
-#endif // LIFT_H
+#endif // LIFT_H  

@@ -23,4 +23,4 @@ uint32_t bulb_numSold(uint8_t model)
 {
     uint32_t buld_numsold = ModelNumberSold[model];
     return buld_numsold;
-}
+} 

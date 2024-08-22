@@ -20,4 +20,4 @@ int16_t lift_goToFloor(Lift_t* lift, int16_t floor)
         lift -> current_floor = floor;
         return (lift -> current_floor); 
     }
-}
+} 

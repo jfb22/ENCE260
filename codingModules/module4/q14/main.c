@@ -21,4 +21,4 @@ int main(void)
         current = lift_goToFloor(&lift, 4);
         puts(4 == current ? "true" : "false");
     }
-}
+} 

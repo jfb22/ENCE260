@@ -27,3 +27,4 @@ int main(void)
     scanf("%zu", &index);
     bulb_display(bulbs[index]);
 }
+ 
